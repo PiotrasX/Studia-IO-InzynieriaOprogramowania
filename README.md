@@ -1,4 +1,42 @@
-# Studia - IO - Inżynieria Oprogramowania
-Opis 1  
-Opis 2  
-Opis 3  
+# 📘 Studia - IO - Inżynieria Oprogramowania
+
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Inżynieria Oprogramowania**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów informatycznych.  
+
+&nbsp;  
+
+---
+
+## 📁 Struktura repozytorium
+
+- `Zadania` – Zadania realizowane podczas zajęć oraz samodzielnie, ???.  
+
+---
+
+## ⚙️ Wykorzystane technologie
+
+- `Język programowania:` ???.  
+- `IDE:` ???.  
+
+---
+
+## 🔍 Zakres tematyczny
+
+- ???:  
+  - ???.  
+
+---
+
+## ✅ Status
+
+Repozytorium ukończone – nie będzie już rozwijane.  
+Mogą pojawić się drobne poprawki lub aktualizacje, jeśli zajdzie taka potrzeba.  
+
+---
+
+## 📄 Licencja
+
+Projekt ma charakter edukacyjny.  
+Możesz swobodnie korzystać z kodu do celów prywatnych i naukowych (np.: do nauki, powtórki do kolokwium, własnych eksperymentów).  
+Autor nie ponosi odpowiedzialności za wykorzystanie kodu niezgodnie z jego przeznaczeniem.  
+
+---
