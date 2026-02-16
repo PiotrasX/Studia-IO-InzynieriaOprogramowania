@@ -1,6 +1,6 @@
 # 📘 Studia - IO - Inżynieria Oprogramowania
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Inżynieria Oprogramowania**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów informatycznych.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Inżynieria Oprogramowania**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -8,14 +8,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Inżyn
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Projekt wykonywany podczas zajęć dydaktycznych oraz samodzielnie. Obejmuje on dokumentowanie i modelowanie systemu informatycznego przy użyciu notacji UML.  
+- `Zadania/Projekt` – Projekt systemu informatycznego "Portal z rekrutacją do prywatnej szkoły średniej". Obejmuje pełną analizę biznesową, specyfikację wymagań funkcjonalnych i niefunkcjonalnych oraz modelowanie systemu w notacji UML z wykorzystaniem narzędzia Software Ideas Modeler. Dokumentacja zawiera diagram wymagań, przypadków użycia, aktywności, klas, sekwencji oraz stanów.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` UML.  
-- `IDE:` Software Ideas Modeler.  
+- `Technologie:` UML.  
+- `Środowiska programistyczne (IDE):` Software Ideas Modeler.  
 
 ---
 
