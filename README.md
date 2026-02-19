@@ -1,4 +1,4 @@
-# 📘 Studia – IO - Inżynieria Oprogramowania
+# 📘 Studia – IO – Inżynieria Oprogramowania
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Inżynieria Oprogramowania**, realizowanego na Uniwersytecie Rzeszowskim podczas piątego (5) semestru studiów inżynierskich na kierunku Informatyka.  
 
